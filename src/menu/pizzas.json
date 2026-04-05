@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Margherita",
+    "price": 299,
+    "veg": true,
+    "spicy": false,
+    "tags": ["classic", "light", "cheesy"]
+  },
+  {
+    "name": "Spicy Paneer",
+    "price": 399,
+    "veg": true,
+    "spicy": true,
+    "tags": ["indian", "spicy", "heavy"]
+  },
+  {
+    "name": "Pepperoni",
+    "price": 449,
+    "veg": false,
+    "spicy": false,
+    "tags": ["meaty", "classic", "party"]
+  }
+]

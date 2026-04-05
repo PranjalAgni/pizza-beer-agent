@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Kingfisher Premium",
+    "price": 150,
+    "style": "lager",
+    "abv": 7,
+    "tags": ["crisp", "easy", "refreshing"]
+  },
+  {
+    "name": "Bira White",
+    "price": 180,
+    "style": "wheat",
+    "abv": 5,
+    "tags": ["citrusy", "smooth", "light"]
+  },
+  {
+    "name": "Hoegaarden",
+    "price": 260,
+    "style": "wheat",
+    "abv": 5,
+    "tags": ["fruity", "soft", "premium"]
+  }
+]
