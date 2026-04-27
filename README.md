@@ -70,3 +70,4 @@ The input preferences are hardcoded in `src/index.ts` — change the mood, budge
 - Wiring up LangChain tools inside a graph
 - Constraining LLM output to JSON and validating it against a schema
 - Honestly, also that GPT-4 Mini has surprisingly good opinions about beer
+- Langgraph makes it pretty easy to understand the agent as thinking shifts to a graph model and state machine which makes it very clear
